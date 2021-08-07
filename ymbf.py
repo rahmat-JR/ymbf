@@ -81,7 +81,7 @@ N = '\x1b[0m'    # WARNA MATI
 my_color = [
  P, M, H, K, B, U, O, N]
 warna = random.choice(my_color)
-#  Moch Yayan Juan Alvredo XD.  #
+#  Moch Yayan Juan Alvredo XD X rahmat-JR.  #
 #------------------------------->
 
 ok = []
@@ -110,9 +110,9 @@ def tod():
 
 # LO KONTOL
 logo = ''' \033[0;96m __  __        __  ______  ____
- \033[0;96m \ \/ / ____  /  |/  / _ )/ __/ ® \033[0m|| Created By YayanXD
- \033[0;96m  \  / /___/ / /|_/ / _  / _/     \033[0m|| Github.com/Yayan-XD
- \033[0;96m  /_/       /_/  /_/____/_/ \033[0;91mv2.0  \033[0m|| Facebook.com/KM39453'''
+ \033[0;96m \ \/ / ____  /  |/  / _ )/ __/ ® \033[0m|| Created By YayanXD & Rahmat-JR
+ \033[0;96m  \  / /___/ / /|_/ / _  / _/     \033[0m|| Github.com/Yayan-XD & rahmat-JR
+ \033[0;96m  /_/       /_/  /_/____/_/ \033[0;91mv2.0  \033[0m|| wa:08389648122X
 
 lo_ngentod = '1714009362122228'
 # crack selesai
